@@ -10,14 +10,18 @@ Currently, two official plugins are available:
 
 
 to install the project:
+
+```
 npm install 
 ```
 To run the project:
 
+```
 npm run dev
 ```
 
 To build the project:
 
+```
 npm run build
 ```
